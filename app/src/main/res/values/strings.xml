@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">My Budget</string>
+    <string name="textview">TextView</string>
+    <string name="lich_su_giao_dich">LỊCH SỬ GIAO DỊCH</string>
+    <string name="them_giao_dich">THÊM GIAO DỊCH</string>
+    <string name="tai_khoan">Tài Khoản</string>
+    <string name="loai_giao_dich">Loại giao dịch</string>
+    <string name="so_tien">Số tiền</string>
+    <string name="nhap_so_tien">Nhập số tiền</string>
+    <string name="li_do">Lý do</string>
+    <string name="nhap_li_do_giao_dich">Nhập lý do giao dịch</string>
+    <string name="nhom">Nhóm</string>
+    <string name="ngay_giao_dich">Ngày Giao dịch</string>
+    <string name="luu">Lưu</string>
+    <string name="trang_thai_giao_dich">Trạng thái giao dịch</string>
+    <string name="tien_mat">Tiền Mặt</string>
+    <string name="tien_tiet_kiem">Tiền Tiết Kiệm</string>
+    <string name="the_tin_dung">Thẻ Tín Dụng</string>
+    <string name="so_du">Số Dư</string>
+    <string name="them_giaodich">Thêm Giao Dịch</string>
+    <string name="lich_su">Lịch Sử</string>
+    <string name="thoat">Thoát</string>
+    <string name="my_budget">My Budget</string>
+    <string name="time">time</string>
+    <string name="phannhom">phannhom</string>
+    <string name="sotien">sotien</string>
+    <string name="taikhoan">taikhoan</string>
+    <string name="thong_ke_hom_nay">Thống kê hôm nay</string>
+    <string name="tong_chi">Tổng chi</string>
+    <string name="tong_thu">Tổng thu</string>
+    <string name="luu_thanh_cong">Lưu thành công</string>
+    <string name="them_thanh_cong">Thêm thành công</string>
+    <string name="xoa_thanh_cong">Xóa thành công</string>
+    <string name="custom_listview_contents">Custom ListView Contents</string>
+</resources>
